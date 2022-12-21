@@ -30,7 +30,7 @@ Design
 
 **Framework |** Next.js
 
-**Library |** axios,nookies,recoil,react-hook-form,swr
+**Library |** Axios, Nookies, Recoil, React-hook-form, Swr
 
 <br/>
 
@@ -46,7 +46,7 @@ Design
 
 **Language |** Kotlin
 
-**Framework |** Spring, Jpa
+**Framework |** Spring, Jpa, Swagger, Validation, Spring Security
 
 <br/>
 
