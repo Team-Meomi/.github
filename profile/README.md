@@ -30,8 +30,15 @@ Design
 
 **Framework |** Next.js
 
-**Library |** Next Router, Axios
+**Library |** axios,nookies,recoil,react-hook-form,swr
 
+<br/>
+
+### 🧷 iOS
+
+**Language |** Swift
+
+**Framework |** UIkit, Snapkit, Then, Moya
 
 <br/>
 
@@ -40,6 +47,12 @@ Design
 **Language |** Kotlin
 
 **Framework |** Spring, Jpa
+
+<br/>
+
+### 🧷 Design
+
+**Framework |** Figma
 
 
 <br/>
