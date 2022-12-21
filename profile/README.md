@@ -54,7 +54,7 @@ Design
 
 <br/>
 
-## Document
+## 📄 Document
 [기능명세서](https://pinto-sweatshirt-c0a.notion.site/bc6f1b54dfe1447aa35bb1f212bcc748)<br>
 [API 명세서](https://pinto-sweatshirt-c0a.notion.site/api-user-3b89ce0183704862bdbdc8e42371814b) <br>
 [디자인](https://www.figma.com/file/cE0cdwGRe8G5dXrWEFdaNf/%EB%AC%98%EB%AF%B8%EB%B6%84%EC%8B%9D?node-id=0%3A1&t=lN78njuZezOaYVPd-1)
