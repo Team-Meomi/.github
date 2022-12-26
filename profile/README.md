@@ -26,7 +26,7 @@ Design
 
 ### 🧷 Frontend
 
-**Language |** Javascript, Typescript
+**Language |** Typescript
 
 **Framework |** Next.js
 
