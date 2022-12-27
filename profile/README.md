@@ -38,7 +38,9 @@ Design
 
 **Language |** Swift
 
-**Framework |** UIkit, Snapkit, Then, Moya
+**Framework |** UIkit
+
+**Library |** Snapkit, Then, Moya
 
 <br/>
 
