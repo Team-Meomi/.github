@@ -48,7 +48,7 @@ Design
 
 **Language |** Kotlin
 
-**Framework |** Spring, Jpa, Swagger, Validation, Spring Security
+**Framework |** Spring, Jpa
 
 <br/>
 
