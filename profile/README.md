@@ -40,7 +40,7 @@ Design
 
 **Framework |** UIkit
 
-**Library |** Snapkit, Then, Moya, MSGLayout
+**Library |** Snapkit, Then, Moya, MSGLayout, RxSwift, RxCocoa
 
 <br/>
 
